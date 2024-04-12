@@ -1,0 +1,6 @@
+word = "rafli"
+
+if len(word) >= 3:
+    print("Third character:", word[2])
+else:
+    print("Word is too short.")
