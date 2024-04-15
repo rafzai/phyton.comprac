@@ -1,0 +1,4 @@
+word = "hello"
+lastChar = word[-1]
+
+print("The last character of the word is:", lastChar)
