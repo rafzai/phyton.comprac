@@ -1,0 +1,11 @@
+arr = [3, -5, 2, -8, 1, -4]
+
+print("Non-negative elements:", end=" ")
+for num in arr:
+    if num >= 0:
+        print(num, end=" ")
+
+print("\nNegative elements:", end=" ")
+for num in arr:
+    if num < 0:
+        print(num, end=" ")
