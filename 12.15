@@ -1,0 +1,6 @@
+word = "radar"
+
+if word[0] == word[-1]:
+    print("The word starts and ends with the same letter.")
+else:
+    print("The word does not start and end with the same letter.")
