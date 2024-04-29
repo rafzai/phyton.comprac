@@ -1,0 +1,6 @@
+word = "example"
+
+if word[1] == word[3]:
+    print("Second and fourth characters are the same.")
+else:
+    print("Second and fourth characters are different.")
