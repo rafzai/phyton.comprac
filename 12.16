@@ -1,0 +1,7 @@
+word1 = "hello"
+word2 = "orange"
+
+if word1[0] == word2[-1]:
+    print("The first word starts with the same letter as the last letter of the second word.")
+else:
+    print("The first word does not start with the same letter as the last letter of the second word.")
